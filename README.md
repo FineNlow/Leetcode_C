@@ -1,2 +1,2 @@
 # Leetcode_C
-Leetcode solving by {Number: 9}
+Leetcode problem solving by C programming
