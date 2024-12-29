@@ -1,2 +1,2 @@
 # Leetcode_C
-Leetcode problem solving by C programming
+Leetcode problem solving in C programming
